@@ -1,4 +1,8 @@
-# <a href='https://app.pluralsight.com/library/courses/ff40abd2-2630-4c30-b1c0-d9f6498bb5fc'>Pluralsight</a>
+# <a href='https://app.pluralsight.com'>
+  <img src='https://gillcleerenpluralsight.blob.core.windows.net/files/pluralsight.png' height='100' alt='Puralsight Logo'/>
+  Pluralsight</a>
+  
+  
 This is a demo repo for learning purposes. You will learn basics of Github
 
 ## Github getting 
