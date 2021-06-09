@@ -10,4 +10,4 @@ Please delete options that are not relevant.
 - [ ] Bug fix (non-breaking changes which fixes an issue)
 - [ ] New feature (non-breaking changes which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to work as expected)
- -[ ] This change requires a documentation update
+- [ ] This change requires a documentation update
